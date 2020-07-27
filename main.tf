@@ -4,6 +4,12 @@ provider "aws" {
   region     = ""
 }
 
+
+
+
+
+
+
 resource "aws_instance" "web" {
   # ...
 }
